@@ -75,3 +75,16 @@ Features:
 ## 📫 Contact
 
 📧 safithmuslim@gmail.com
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safith001&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safith001&layout=compact&theme=tokyonight)
+
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=safith001&theme=tokyonight)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=safith001&color=blue)
