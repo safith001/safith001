@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum!+👋;Nice+to+see+you;I'm+Mohammed+Saffith" alt="Typing SVG" />
 </h1>
 
-<!-- Social badges -->
+<!-- Social badges (only once) -->
 <p align="center">
   <a href="https://github.com/safith001">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -54,26 +54,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Streak stats (very reliable) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=safith001&theme=radical" />
-  
-  <!-- Top languages (cached to avoid rate limits) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safith001&layout=compact&theme=radical&cache_seconds=3600" />
 </div>
 
 ## 🌟 Current Project
 
 > ✈️ **Flight Price Checker Bot** – automating flight price alerts using Python & Telegram
-
----
-
-## 📫 Connect with me
-
-<p align="center">
-  <a href="https://github.com/safith001">GitHub</a> •
-  <a href="https://www.linkedin.com/in/mohammed-sarook-mohammed-safith-23aa30247/">LinkedIn</a> •
-  <a href="https://www.instagram.com/safith_visuals">Instagram</a>
-</p>
 
 ---
 
