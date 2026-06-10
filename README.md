@@ -1,6 +1,6 @@
 # 👋 Assalamu Alaikum! Nice to see you.
 
-I'm **Mohammed Sarook Mohammed Safith** from Malaysia.
+I'm **Mohammed Sarook Mohammed Safith** .
 
 🎓 Bachelor of Information Technology (Hons) Graduate  
 💻 Developer  
