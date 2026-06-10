@@ -42,6 +42,12 @@
 </div>
 
 <!-- Streak stats with matching theme -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=safith001&theme=radical&border=FF6B6B&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B6B&sideLabels=FFFFFF&dates=FFFFFF" />
 </p>
