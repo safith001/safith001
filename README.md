@@ -14,10 +14,10 @@
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/yourhandle">
+  <a href="https://www.instagram.com/safith_visuals?igsh=MW43OGczejZ0MzlkZw%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:safithmuslim@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
