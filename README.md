@@ -54,11 +54,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=safith001&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safith001&layout=compact&theme=radical" />
+  <!-- Streak stats (very reliable) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safith001&theme=radical" />
+  
+  <!-- Top languages (cached to avoid rate limits) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safith001&layout=compact&theme=radical&cache_seconds=3600" />
 </div>
-
----
 
 ## 🌟 Current Project
 
