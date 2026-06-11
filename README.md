@@ -17,16 +17,21 @@
 - ✈️ Created a **Flight Price Checker Bot** (Python, Telegram)
 - 👥 Built **PeerConnect** – academic collaboration platform (Laravel, final year project)
 - 📚 Lifelong learner – deeply interested in **Islamic thought, history, and meaningful narratives**
-- 🌏 Currently seeking opportunities in Malaysia or Sri Lanka
+- 🌏 Currently open to entry-level opportunities in Malaysia or Sri Lanka
 
 ---
 
 ## 📚 Beyond Coding
 
-- Passionate about **reading** – Islamic studies, history, personal development
-- Maintain a **personal library** (mostly Tamil books)
-- Enjoy **historical series** like Ertuğrul – stories of civilization and values
-- Encourage **knowledge sharing** and reading culture
+I'm drawn to **history, Islamic thought, and meaningful narratives** – content that builds character and understanding, not casual entertainment.
+
+- I read in **phases** – sometimes deeply for weeks, other times taking breaks
+- During breaks, I learn through **historical series** like *Ertuğrul* (which I completed fully)
+- I value **stories of civilization, struggle, and values** over fast entertainment
+- I maintain a **personal library** (mostly Tamil books) – even if I don't read daily, I love collecting knowledge
+- I'm working on **building consistency** – and I'm honest about the journey
+
+> *"Not every day is a reading day, but every day I grow in some way."*
 
 ---
 
