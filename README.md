@@ -13,7 +13,7 @@
 
 - 🎓 **Bachelor of Information Technology (Hons)** Graduate
 - 💻 Developer passionate about building useful tools
-- ✈️ Currently building a **Flight Price Checker Bot**
+- ✈️ Building automation tools & academic collaboration platforms
 - 📚 Lifelong learner – always reading and growing
 
 ---
@@ -38,7 +38,32 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" />
 </p>
+
+---
+
+## 🚀 Projects
+
+### ✈️ Flight Price Checker Bot
+> Automating flight price alerts using Python & Telegram  
+[🔗 Repository](https://github.com/safith001/flight-bot)
+
+### 👥 PeerConnect – Academic Collaboration Platform
+> A peer-to-peer platform for university students to connect, share knowledge, and communicate. Built as my final year project.
+
+**Features:**  
+🔐 User auth (register/login/email verification)  
+👤 Student profiles with faculty, department, semester  
+🔍 Peer discovery & search  
+🤝 Send/accept/decline connection requests  
+📝 Posts & comments with file attachments  
+💬 Private 1-to-1 chat with read receipts  
+📊 Dashboard (posts, connections, unread messages, pending requests)
+
+**Tech Stack:** Laravel 12, Blade, Tailwind CSS, Alpine.js, SQLite, Laravel Breeze, Vite
+
+[🔗 Repository](https://github.com/safith001/peerconnect)
 
 ---
 
@@ -48,10 +73,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=safith001&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safith001&layout=compact&theme=radical&cache_seconds=3600" />
 </div>
-
-## 🌟 Current Project
-
-> ✈️ **Flight Price Checker Bot** – automating flight price alerts using Python & Telegram
 
 ---
 
