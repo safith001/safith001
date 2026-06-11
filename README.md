@@ -36,12 +36,20 @@
 
 I’m drawn to **history, civilisation, and stories that build character**.  
 I read in **phases** – sometimes deeply, other times taking breaks.  
-During breaks, I learn through **historical series** like *Ertuğrul*.  
+During breaks, I enjoy watching **Turkish series** like *Diriliş: Ertuğrul* (completed) and the *Umar series* – they are among my favourites.  
 I value substance over speed, and I'm honest about the journey.
 
-- 📖 Maintain a personal library (mostly Tamil books)
+- 📖 Maintain a **small personal library**
 - 📜 Enjoy Islamic studies, history, and personal development
 - 🤝 Encourage knowledge sharing and reading culture
+
+### 🧠 Scholars who inspire me
+
+| | | |
+|:-|:-|:-|
+| Allama Iqbal | Abul A'la Maududi | Abul Hasan Ali Nadwi |
+| Israr Ahmed | Hasan Al Banna | Syed Qutb |
+| Malik Al Badri | Imran Hussain | |
 
 ---
 
