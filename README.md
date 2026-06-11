@@ -9,20 +9,23 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍🎓 About Me
 
-- 🎓 **Bachelor of Information Technology (Hons)** Graduate
-- 💻 Developer passionate about building useful tools
-- ✈️ Building automation tools & academic collaboration platforms
-- 📚 Lifelong learner – always reading and growing
+- 🎓 **Bachelor of Information Technology (Honours)** – City University, Malaysia (May 2023 – June 2026)
+- 📊 **CGPA: 3.47** (Second Class Upper) | Final semester (Internship): **4.0 (A)**
+- 💻 Developer passionate about building useful tools and platforms
+- ✈️ Created a **Flight Price Checker Bot** (Python, Telegram)
+- 👥 Built **PeerConnect** – academic collaboration platform (Laravel, final year project)
+- 📚 Lifelong learner – deeply interested in **Islamic thought, history, and meaningful narratives**
+- 🌏 Currently seeking opportunities in Malaysia or Sri Lanka
 
 ---
 
 ## 📚 Beyond Coding
 
-- Passionate about **reading** and lifelong learning
-- Maintain a **personal library**
-- Enjoy **history**, **Islamic studies**, and **personal development** books
+- Passionate about **reading** – Islamic studies, history, personal development
+- Maintain a **personal library** (mostly Tamil books)
+- Enjoy **historical series** like Ertuğrul – stories of civilization and values
 - Encourage **knowledge sharing** and reading culture
 
 ---
@@ -49,11 +52,11 @@
 > Automating flight price alerts using Python & Telegram  
 [🔗 Repository](https://github.com/safith001/flight-bot)
 
-### 👥 PeerConnect – Academic Collaboration Platform
-> A peer-to-peer platform for university students to connect, share knowledge, and communicate. Built as my final year project.
+### 👥 PeerConnect – Academic Collaboration Platform (Final Year Project)
+> A peer-to-peer platform for university students to connect, share knowledge, and communicate.
 
 **Features:**  
-🔐 User auth (register/login/email verification)  
+🔐 User authentication (register/login/email verification)  
 👤 Student profiles with faculty, department, semester  
 🔍 Peer discovery & search  
 🤝 Send/accept/decline connection requests  
@@ -75,6 +78,10 @@
 </div>
 
 ---
+
+## 📫 Let's Connect
+
+I'm open to **entry-level developer roles** and **collaborations**. Feel free to reach out!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=safith001&label=Profile%20Views&color=F75C7E&style=flat" />
