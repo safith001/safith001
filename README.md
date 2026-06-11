@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohammed%20Safith&fontSize=50&fontColor=fff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Assalamu Alaikum! 👋<br />Developer | Learner | Story Seeker</h3>
+<h3 align="center">Assalamu Alaikum! 👋<br />Curious Developer | Seeker of Meaning | History Lover</h3>
 
 <!-- Social badges -->
 <p align="center">
@@ -71,7 +71,7 @@ I value substance over speed, and I'm honest about the journey.
 ## 📚 Books I've Read / Currently Reading
 
 <details>
-<summary><b>📖 Click to expand – my reading journey</b></summary>
+<summary><b>📖 🔽 CLICK TO EXPAND – MY COMPLETE READING JOURNEY (20+ Tamil books) 🔽</b></summary>
 
 <br />
 
