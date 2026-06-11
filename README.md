@@ -1,37 +1,45 @@
-<h1 align="center">Assalamu Alaikum! 👋<br />I'm Mohammed Safith</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohammed%20Safith&fontSize=50&fontColor=fff&animation=fadeIn" />
+</p>
 
-<!-- Social badges -->
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Assalamu+Alaikum!+👋;Developer+%7C+Learner+%7C+Story+Seeker" />
+</p>
+
+<!-- Social + Info badges -->
 <p align="center">
   <a href="https://github.com/safith001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mohammed-sarook-mohammed-safith-23aa30247/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/safith_visuals"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
----
-
-## 👨‍🎓 About Me
-
-- 🎓 **Bachelor of Information Technology (Honours)** – City University, Malaysia (May 2023 – June 2026)
-- 📊 **CGPA: 3.47** (Second Class Upper) | Final semester (Internship): **4.0 (A)**
-- 💻 Developer passionate about building useful tools and platforms
-- ✈️ Created a **Flight Price Checker Bot** (Python, Telegram)
-- 👥 Built **PeerConnect** – academic collaboration platform (Laravel, final year project)
-- 📚 Lifelong learner – deeply interested in **Islamic thought, history, and meaningful narratives**
-- 🌏 Currently open to entry-level opportunities in Malaysia or Sri Lanka
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_CGPA-3.47-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/💼_Open_to_work-Entry_Level-4CAF50?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍_Location-Malaysia_/_Sri_Lanka-2196F3?style=flat-square" />
+</p>
 
 ---
 
-## 📚 Beyond Coding
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-I'm drawn to **history, Islamic thought, and meaningful narratives** – content that builds character and understanding, not casual entertainment.
+- 🎓 **Bachelor of Information Technology (Honours)** – City University, Malaysia (2023–2026)
+- 📊 **CGPA 3.47** (Second Class Upper) | Final semester GPA: **4.0**
+- 💻 Building: **Flight Price Bot** (Python) & **PeerConnect** (Laravel)
+- 📚 Deep interest: Islamic thought, history, meaningful narratives
+- 🌏 Open to entry-level roles in Malaysia or Sri Lanka
 
-- I read in **phases** – sometimes deeply for weeks, other times taking breaks
-- During breaks, I learn through **historical series** like *Ertuğrul* (which I completed fully)
-- I value **stories of civilization, struggle, and values** over fast entertainment
-- I maintain a **personal library** (mostly Tamil books) – even if I don't read daily, I love collecting knowledge
-- I'm working on **building consistency** – and I'm honest about the journey
+---
 
-> *"Not every day is a reading day, but every day I grow in some way."*
+## 📚 Beyond Coding – My Learning Rhythm
+
+> I'm drawn to history, civilization, and stories that build character.  
+> I read in **phases** – sometimes deeply, other times taking breaks.  
+> During breaks, I turn to **historical series** like *Ertuğrul*.  
+> I value substance over speed, and I'm honest about the journey.
+
+*"Not every day is a reading day, but every day I grow in some way."*
 
 ---
 
@@ -53,46 +61,29 @@ I'm drawn to **history, Islamic thought, and meaningful narratives** – content
 
 ## 🚀 Projects
 
-### ✈️ Flight Price Checker Bot
-> Automating flight price alerts using Python & Telegram  
-[🔗 Repository](https://github.com/safith001/flight-bot)
-
-### 👥 PeerConnect – Academic Collaboration Platform (Final Year Project)
-> A peer-to-peer platform for university students to connect, share knowledge, and communicate.
-
-**Features:**  
-🔐 User authentication (register/login/email verification)  
-👤 Student profiles with faculty, department, semester  
-🔍 Peer discovery & search  
-🤝 Send/accept/decline connection requests  
-📝 Posts & comments with file attachments  
-💬 Private 1-to-1 chat with read receipts  
-📊 Dashboard (posts, connections, unread messages, pending requests)
-
-**Tech Stack:** Laravel 12, Blade, Tailwind CSS, Alpine.js, SQLite, Laravel Breeze, Vite
-
-[🔗 Repository](https://github.com/safith001/peerconnect)
+| | | |
+|:-:|:-:|:-:|
+| **✈️ Flight Price Checker Bot**<br/>Python • Telegram API<br/>[🔗 Repo](https://github.com/safith001/flight-bot) | **👥 PeerConnect**<br/>Laravel • Tailwind • Alpine.js<br/>[🔗 Repo](https://github.com/safith001/peerconnect) | |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safith001&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safith001&layout=compact&theme=radical&cache_seconds=3600" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=safith001&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safith001&layout=compact&theme=radical&hide_border=true&cache_seconds=3600" />
 </div>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=safith001&theme=radical&no-frame=true&row=2&column=3" />
+</p>
+
 ---
-
-## 📫 Let's Connect
-
-I'm open to **entry-level developer roles** and **collaborations**. Feel free to reach out!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=safith001&label=Profile%20Views&color=F75C7E&style=flat" />
 </p>
 
-<!-- Wave footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
