@@ -43,14 +43,6 @@ I value substance over speed, and I'm honest about the journey.
 - 📜 Enjoy Islamic studies, history, and personal development
 - 🤝 Encourage knowledge sharing and reading culture
 
-### 🧠 Scholars who inspire me
-
-| | | |
-|:-|:-|:-|
-| Allama Iqbal | Abul A'la Maududi | Abul Hasan Ali Nadwi |
-| Israr Ahmed | Hasan Al Banna | Syed Qutb |
-| Malik Al Badri | Imran Hussain | |
-
 ---
 
 ## 🛠️ Tech Stack
@@ -73,52 +65,6 @@ I value substance over speed, and I'm honest about the journey.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📚 Books I've Read / Currently Reading
-
-<details>
-<summary><b>📖 🔽 CLICK TO EXPAND – MY COMPLETE READING JOURNEY (20+ Tamil books) 🔽</b></summary>
-
-<br />
-
-### ✅ Completed Books
-
-- ஃகிலாஃபத்தும் மன்னராட்சியும் — *அபுல் அஃலா மௌதூதி*
-- வேர்களை வாசிக்கும் விழுதுகள் (மௌலானா மௌத்தூதி அவர்களின் குடும்ப வாழ்வு) — *ஹுமைரா மௌதூதி*
-- மௌலானா மௌதூதி: ஒரு நினைவஞ்சலி — *மாலிக் பத்ரி*
-- இளைஞனே விழித்தெழு — *அபுல் அஃலா மௌதூதி*
-- ஆத்மானந்தங்கள் — *சையித் குதுப்* (பல முறை வாசிக்கப்பட்டது)
-
-### 📖 Currently Reading
-
-| Book | Author | Progress |
-|------|--------|----------|
-| இஸ்லாமிய மறுமலர்ச்சி வரலாறு (பகுதி 1) | மௌலானா அபுல் ஹசன் அலீ நத்வீ | 25% |
-| இஸ்லாமியக் கண்ணோட்டத்தின் தனித்தன்மைகள் | சையித் குதுப் | 5% |
-| மைல்கற்கள் | சையித் குதுப் | 15% |
-| திருக்குர்ஆனின் நிழலில் (தொகுதி 1) | சையித் குதுப் | 40% |
-| இஸ்லாத்தில் சமூக நீதி | சையித் குதுப் | 25% |
-| உன்னை அறிக! | இப்னு அரபி, பல்யானி | 15% |
-| இஸ்லாமிய வாழ்வு | மௌலானா அபுல் அஃலா மௌதூதி | 15% |
-| தொழுகையை மீளக் கண்டடைதல் | அஹ்மத் பஸ்ஸாம் ஸாஈ | 15% |
-| அல் அகாயிது | ஹசனுல் பன்னா | 30% |
-| ஆலு இம்ரான் (தஃப்ஹீமுல் குர்ஆன்) | மௌதூதி | 15–25% |
-| அன்னிஸா (தஃப்ஹீமுல் குர்ஆன்) | மௌதூதி | 15–20% |
-| இஸ்லாமும் இதரப் பொருளாதாரக் கொள்கைகளும் | முஹம்மத் குதுப் | 40% |
-| சென்னைப் பேருரை | மௌதூதி | 15–20% |
-| நாடோடி நினைவுகள் | அல்லாமா இக்பால் | 60% |
-| அர்ரஹீக் அல்மக்தூம் (Seerah of Prophet ﷺ) | சஃபியுர் ரஹ்மான் முபாரக்புரி | 45–50% |
-
-### 📖 In My Reading Queue
-
-- சிந்து நதி கரையினிலே
-- மேற்கு வானம்
-- மஹ்ஜபீன்
-- புனித பூமியிலே
-
-</details>
 
 ---
 
