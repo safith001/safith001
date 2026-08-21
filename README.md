@@ -51,9 +51,9 @@
 ┌────────────────────────────────────────────┐
 │          Mohammed Safith — Dev Card        │
 ├────────────────────────────────────────────┤
-│  📛  Name      : Mohammed Safith           │
-│  📍  Location  : Malaysia / Sri Lanka      │
-│  🎓  Education : B.Sc. (Hons) IT          │
+│  📛  Name      :  Safith                   │
+│  📍  Location  : Sri Lanka                 │
+│  🎓  Education : B.Sc. (Hons) IT           │
 │                  City University Malaysia  │
 ├────────────────────────────────────────────┤
 │  💡  I am     :                            │
@@ -135,32 +135,16 @@
 
 </div>
 
----
-
-<!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
+<!-- Streak (working ✅) -->
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=safith001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=fcb045&icon_color=302b63&text_color=ffffff&count_private=true&border_radius=12" />
-  <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=safith001&theme=tokyonight&hide_border=true&background=0D1117&ring=fcb045&fire=fd1d1d&currStreakLabel=fcb045&sideLabels=ffffff&border_radius=12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safith001&theme=tokyonight&hide_border=true&background=0D1117&ring=fcb045&fire=fd1d1d&currStreakLabel=fcb045&sideLabels=ffffff&border_radius=12" />
 </div>
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safith001&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=fcb045&text_color=ffffff&border_radius=12&cache_seconds=3600" />
-</div>
-
-<!-- ACTIVITY GRAPH -->
+<!-- Activity Graph (working ✅) -->
 <div align="center">
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=safith001&bg_color=0D1117&color=fcb045&line=302b63&point=fcb045&area=true&area_color=302b63&hide_border=true&radius=12" />
-</div>
-
----
-
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=safith001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 </div>
 
 
