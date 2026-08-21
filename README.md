@@ -4,14 +4,14 @@
 
 <!-- ANIMATED HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,40:302b63,100:24243e&height=250&section=header&text=Mohammed%20Safith&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=✦%20Developer%20%7C%20Islamic%20Scholar%20%7C%20History%20Lover%20✦&descSize=18&descColor=fcb045&descAlignY=62" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,40:302b63,100:24243e&height=260&section=header&text=Mohammed%20Safith&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=✦%20Vibe%20Coder%20%7C%20Meaning%20Seeker%20%7C%20History%20Lover%20✦&descSize=17&descColor=fcb045&descAlignY=62" />
 </div>
 
 <br/>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=fcb045&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=Assalamu+Alaikum+%F0%9F%8C%99+Welcome+to+my+GitHub!;Building+tools+that+serve+a+purpose+%F0%9F%9A%80;Tamil+Islamic+Books+App+%E2%80%94+100%2B+Books+%F0%9F%93%9A;Passionate+Developer+from+Malaysia+%F0%9F%87%B2%F0%9F%87%BE;Open+to+Entry-Level+Roles+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=fcb045&center=true&vCenter=true&width=750&height=55&lines=Assalamu+Alaikum+%F0%9F%8C%99+Welcome+to+my+GitHub!;Vibe+Coder+%7C+I+build+until+it+works+%F0%9F%9A%80;Seeker+of+Meaning+%7C+Not+just+code;Graduate+of+City+University+Malaysia+%F0%9F%8E%93;Unemployed+Vibe+Coder+%F0%9F%98%82" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -19,7 +19,7 @@
 <!-- SOCIAL BADGES -->
 <div align="center">
   <a href="https://github.com/safith001">
-    <img src="https://img.shields.io/badge/GitHub-safith001-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/GitHub-safith001-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/mohammed-sarook-mohammed-safith-23aa30247/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Instagram-safith__visuals-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp;
   <a href="mailto:safithscientist@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-safithscientist-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
@@ -36,77 +36,73 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=safith001&label=👁%20Profile%20Views&color=302b63&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/safith001?label=Followers&style=for-the-badge&color=fcb045&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/safith001?label=✨%20Followers&style=for-the-badge&color=fcb045&labelColor=0D1117" />
 </div>
 
 ---
 
 <!-- ABOUT SECTION -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Who Am I?
 
-<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Dev GIF" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```yaml
-┌──────────────────────────────────────────┐
-│         Mohammed Safith — Profile        │
-├──────────────────────────────────────────┤
-│  Name     : Mohammed Safith              │
-│  Location : Malaysia / Sri Lanka 🌏      │
-│  Degree   : B.Sc. (Hons) IT             │
-│             City University, Malaysia    │
-├──────────────────────────────────────────┤
-│  Passions :                              │
-│    💻  Building meaningful software     │
-│    📚  Islamic history & civilisation   │
-│    ✈️   Flight tech & automation         │
-│    🕌  Quranic studies & heritage       │
-│    🎬  Turkish historical series        │
-├──────────────────────────────────────────┤
-│  Currently :                             │
-│    🔭  Tamil Islamic Books App v2.1.5   │
-│    🌱  Capacitor + Android + Node.js    │
-│    👀  Open to roles in MY / LK         │
-│    ⚡  Fun: History nerd by night 🌙    │
-└──────────────────────────────────────────┘
+┌────────────────────────────────────────────┐
+│          Mohammed Safith — Dev Card        │
+├────────────────────────────────────────────┤
+│  📛  Name      : Mohammed Safith           │
+│  📍  Location  : Malaysia / Sri Lanka      │
+│  🎓  Education : B.Sc. (Hons) IT          │
+│                  City University Malaysia  │
+├────────────────────────────────────────────┤
+│  💡  I am     :                            │
+│       🎧  Vibe Coder — code until works   │
+│       🔍  Seeker of meaning, not titles   │
+│       📚  Islamic History enthusiast      │
+│       ✈️   Bot builder & tinkerer          │
+│       🕌  Quranic Studies & Heritage      │
+│       🎬  Turkish historical series fan   │
+├────────────────────────────────────────────┤
+│  🔭  Building : Tamil Islamic Books App   │
+│  🌱  Learning : Android + APIs + Cloud   │
+│  👀  Status   : Unemployed Vibe Coder 😂  │
+│  ⚡  Fun Fact : History nerd by night 🌙  │
+└────────────────────────────────────────────┘
 ```
 
 <br clear="right"/>
 
 <div align="center">
 
-> 🌙 *"Not every day is a reading day, but every day I grow in some way."*
+> *🌙 "Not every day is a reading day, but every day I grow in some way."*
 
 </div>
 
 ---
 
-<!-- FEATURED PROJECTS -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
+<!-- ALL PROJECTS -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My Projects
 
 <div align="center">
 
-| 🚀 Project | 📖 Description | 🛠 Stack | ⭐ |
-|-----------|---------------|---------|---|
-| [📚 **Tamil Islamic Books**](https://github.com/safith001/-tamil-islamic-books) | 100+ Islamic books in Tamil & Arabic. Offline PDF reader with zoom, Hijri calendar & daily schedule. | `Capacitor` `Android` `Node.js` `REST API` | 🌟 |
-| [✈️ **Flight Price Checker Bot**](https://github.com/safith001/flight-bot) | Telegram bot for real-time flight price tracking & alerts | `Python` `Telegram API` | 🌟 |
-| [👥 **PeerConnect**](https://github.com/safith001/peerconnect) | Academic collaboration platform — Final Year Project | `Laravel` `Tailwind CSS` `Alpine.js` `SQLite` | 🌟 |
+### 🌟 What I've Built
+
+| # | 🚀 Project | 📖 About | 🛠 Stack |
+|:-:|-----------|---------|---------|
+| 1 | [📚 **Tamil Islamic Books**](https://github.com/safith001/-tamil-islamic-books) | 100+ Islamic books in Tamil & Arabic. Offline PDF reader, Hijri calendar, daily schedule & REST API backend | `Capacitor` `Android` `Node.js` `Express` |
+| 2 | [🏪 **Retail ERP System**](https://github.com/safith001/Retail-ERP) | Full ERP for local shops — POS billing, inventory tracking, stock analysis & sales reports | `Laravel 12` `PHP` `MySQL` `Tailwind` |
+| 3 | [👥 **PeerConnect**](https://github.com/safith001/peerconnect) | Academic collaboration platform for students — Final Year Project | `Laravel` `Alpine.js` `Tailwind CSS` `SQLite` |
+| 4 | [✈️ **Flight Price Bot**](https://github.com/safith001/flight-bot) | Telegram bot that tracks & alerts on flight price changes in real-time | `Python` `Telegram API` |
 
 </div>
 
-<!-- Repo Cards -->
-<div align="center">
-  <a href="https://github.com/safith001/-tamil-islamic-books">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=safith001&repo=-tamil-islamic-books&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=fcb045&icon_color=302b63&text_color=ffffff&border_radius=12" />
-  </a>
-  <a href="https://github.com/safith001/peerconnect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=safith001&repo=peerconnect&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=fcb045&icon_color=302b63&text_color=ffffff&border_radius=12" />
-  </a>
-</div>
+
 
 ---
 
 <!-- TECH STACK -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> My Tech Stack
 
 <div align="center">
 
@@ -133,8 +129,9 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -149,12 +146,12 @@
 </div>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safith001&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=fcb045&text_color=ffffff&border_radius=12&cache_seconds=3600" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safith001&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=fcb045&text_color=ffffff&border_radius=12&cache_seconds=3600" />
 </div>
 
-<!-- Activity Graph -->
+<!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=safith001&bg_color=0D1117&color=fcb045&line=302b63&point=fcb045&area=true&area_color=302b63&hide_border=true&radius=12" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=safith001&bg_color=0D1117&color=fcb045&line=302b63&point=fcb045&area=true&area_color=302b63&hide_border=true&radius=12" />
 </div>
 
 ---
@@ -163,40 +160,19 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=safith001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=safith001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 </div>
+
 
 ---
 
-<!-- LEARNING RHYTHM -->
-## 📚 Beyond Coding — My Learning Rhythm
+<!-- CONNECT SECTION -->
+## 📫 Let's Build Something Together
 
 <div align="center">
 
-```
-🌙  I read in phases — sometimes deeply, sometimes taking mindful breaks.
-🎬  Diriliş: Ertuğrul (completed) & the Umar Series are my all-time favourites.
-🕌  Islamic history, civilisation, and stories that build character inspire me.
-📖  I maintain a small personal library — both physical & digital.
-🤝  I value substance over speed, and I'm honest about the journey.
-```
-
-| 📖 Reading | 🎬 Watching | 🤲 Learning |
-|:----------:|:----------:|:----------:|
-| Islamic History | Diriliş: Ertuğrul | Quranic Arabic |
-| Tamil Literature | Umar Series | Mobile Dev |
-| Personal Growth | Tech Documentaries | Cloud & APIs |
-
-</div>
-
----
-
-<!-- WAVE DIVIDER + CONNECT -->
-## 📫 Let's Connect & Build Together
-
-<div align="center">
-
-**💼 Open to entry-level developer roles | 🤝 Open to meaningful collaborations**
+**😂 Unemployed Vibe Coder — but the code works, trust me**
+**🤝 Happy to collaborate on open-source or Islamic tech projects**
 
 <br/>
 
@@ -206,17 +182,20 @@
 <a href="https://www.linkedin.com/in/mohammed-sarook-mohammed-safith-23aa30247/">
   <img src="https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
+<a href="https://www.instagram.com/safith_visuals">
+  <img src="https://img.shields.io/badge/📸%20Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>&nbsp;
 <a href="mailto:safithscientist@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-*If you find my work useful, consider giving it a ⭐ — it means a lot!*
+*"If you find any of my projects useful, a ⭐ is always appreciated — JazakAllahu Khayran! 🌙"*
 
 </div>
 
-<!-- FOOTER -->
+<!-- ANIMATED FOOTER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,40:302b63,100:0f0c29&height=130&section=footer&text=JazakAllahu%20Khayran%20🌙&fontSize=28&fontColor=fcb045&animation=fadeIn&fontAlignY=55" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,40:302b63,100:0f0c29&height=140&section=footer&text=JazakAllahu%20Khayran%20%F0%9F%8C%99&fontSize=30&fontColor=fcb045&animation=fadeIn&fontAlignY=55" />
 </div>
